@@ -1,0 +1,14 @@
+.experience{
+    display: flex;
+    height: 40px;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid black;
+    padding: 10px;
+}
+.experience p{
+    padding-right: 10px;
+}
+#experience2{
+    display: none;
+}

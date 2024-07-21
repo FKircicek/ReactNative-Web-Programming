@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* navigation bar */
+.header{
+    color: #000000;
+    padding-left: 10px;
+}
+.navbar{
+    background-color: rgb(134, 131, 131);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    height: 70px;
+    margin: 5px;
+}
+.list{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+}
+.about-us{
+    background-color: rgb(134, 131, 131);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    height: 70px;
+    margin: 5px;
+}
+.mode-button{
+    color: #032900;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(134, 131, 131);
+}
+.about-us-button{
+    color:  #001AFF;
+    padding-right: 10px;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(134, 131, 131);
+}

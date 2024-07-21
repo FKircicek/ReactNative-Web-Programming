@@ -1,0 +1,32 @@
+.footer{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(134, 131, 131);
+}
+
+.contact-info-button{
+    color:  #001AFF;
+    padding-left: 10px;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(134, 131, 131);
+}
+
+.location-button{
+    color:  #001AFF;
+    padding-right: 10px;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(134, 131, 131);
+}
+
+
+
+
+
+
+
+
+
